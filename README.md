@@ -2,9 +2,11 @@
 Utility to bulk delete duplicate events from Google Calendar. I made it when an iOS phone app accidentally created 1000s of copies of the same event in my Google Calendar.
 
 Before...
+
 ![Before](./media/before.jpg)
 
 After...
+
 ![After](./media/after.jpg)
 
 It is based on this package, [gcsa](https://google-calendar-simple-api.readthedocs.io/en/latest/index.html).
